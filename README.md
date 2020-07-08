@@ -1,4 +1,4 @@
-#Simple Jenkins pipeline to deploy an static website
+# Simple Jenkins pipeline to deploy an static website
 
 ## Introduction
 
